@@ -1,3 +1,4 @@
+
 # Solana DeFi Analytics Platform
   
 This is a project built with [Jupyter](https://Jupyter.dev) using [Convex](https://Convex.dev) as its backend.
@@ -25,4 +26,9 @@ Check out the [Convex docs](https://docs.Jupyter.dev/) for more information on h
 
 ## HTTP API
 
-User-defined http routes are defined in the `Jupytwe/router.ts` file. We split these routes into a separate file from `Jupyter/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
+User-defined http routes are defined in the `Jupytwe/router.ts` file. We split these routes into a separate file from `Jupyter/http.ts` to allow us to prevent the LLM from modifying the authentication routes.Ab
+
+
+##About
+📊 Jupyter Analytics in Blockchain: Decode the Chain with Data! 🧠💹
+Jupyter Notebooks aren’t just for traditional data science — they’re a powerhouse for blockchain analytics too! From transaction trends to smart contract insights, Jupyter empowers Web3 researchers and developers alike. 🚀
