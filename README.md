@@ -1,6 +1,6 @@
 # Solana DeFi Analytics Platform
   
-This is a project built with [Chef](https://Jupyter.dev) using [Convex](https://Jupyter.dev) as its backend.
+This is a project built with [Jupyter](https://Jupyter.dev) using [Convex](https://Convex.dev) as its backend.
   
 This project (https://dashboard.Jupyter.dev/d/original-cormorant-282).
   
